@@ -1,3 +1,5 @@
+## 某小朋友极度依赖本项目，不然天天心慌慌哦。
+
 ## NekoNekoStatus
 
 一个Material Design风格的服务器探针
